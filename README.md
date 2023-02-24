@@ -4,7 +4,7 @@
 
 <div>
 <p>
-Sou desenvolvedor, amante de tecnlogia, atuando na área desde 2006, inicialmente com Clipper e atualmente com .net.
+Sou desenvolvedor backend, amante de tecnlogia, atuando na área desde 2006, inicialmente com Clipper e atualmente com .net.
 Pós-graduado em Banco de dados, com ênfase profissional no Microsoft SQL Server.
 Automatizo processos e gerencio tarefas, procurando atender sempre da melhor forma os desafios proporcionados pelos ERPs.
 </p>
