@@ -5,17 +5,36 @@
 <div>
 <p>
 Sou desenvolvedor, amante de tecnlogia, atuando na área desde 2006, inicialmente com Clipper e atualmente com .net.
+Pós-graduado em Banco de dados, com ênfase profissional no Microsoft SQL Server.
 Automatizo processos e gerencio tarefas, procurando atender sempre da melhor forma os desafios proporcionados pelos ERPs.
 </p>
 </div>
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
-https://camo.githubusercontent.com/2f1508606a38136580ebde098ddf581996b38aa2c554be84d9f0fb680c2bdff1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f746e6574636f72652f646f746e6574636f72652d6f726967696e616c2e737667
-https://camo.githubusercontent.com/d068121fa2b82b225f4ff0712ed7689a504eadf93391482f5806d3590ef3da89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2d776f72646d61726b2e737667
-https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+## 👨⚡ Tecnologias
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+<div style="display: inline_block">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="DotNet Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div><br>
+
+## 🌐 Redes Sociais
+
+<div> 
+    <a href="https://www.instagram.com/will.peixoto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/willpeixoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+## ⚙️ Estatísticas GitHub
+
+<div align="center">
+  <a href="https://github.com/willianlpeixoto">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=willianlpeixoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianlpeixoto&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 
 <!--
 **willianlpeixoto/willianlpeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
