@@ -1,4 +1,14 @@
-### Hi there 👋
+### Eu sou o Will!!!
+
+## Um Pouco sobre mim:
+
+<div>
+<p>
+Sou desenvolvedor, amante de tecnlogia, atuando na área desde 2006, inicialmente com Clipper e atualmente com .net.
+Automatizo processos e gerencio tarefas, procurando atender sempre da melhor forma os desafios proporcionados pelos ERPs.
+</p>
+</div>
+
 
 <!--
 **willianlpeixoto/willianlpeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
